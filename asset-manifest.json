@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reacthook/static/css/main.1422ec0d.css",
+    "main.js": "/reacthook/static/js/main.4befbeb7.js",
+    "static/js/453.037e84c9.chunk.js": "/reacthook/static/js/453.037e84c9.chunk.js",
+    "index.html": "/reacthook/index.html",
+    "main.1422ec0d.css.map": "/reacthook/static/css/main.1422ec0d.css.map",
+    "main.4befbeb7.js.map": "/reacthook/static/js/main.4befbeb7.js.map",
+    "453.037e84c9.chunk.js.map": "/reacthook/static/js/453.037e84c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1422ec0d.css",
+    "static/js/main.4befbeb7.js"
+  ]
+}
